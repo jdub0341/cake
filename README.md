@@ -46,3 +46,9 @@ make andrew do all the dishes
 5) create a pull request against the master
 ## I will merge your PRs in the order they were created
 * You will have to fix PRs with perge conflicts
+
+# Conclusion
+* In exercise 1 git is very good at merging simultanious changes on different lines
+* In exercise 2 git is slightly less good at merging changes on the same line
+* Temporary feature branches (github flow) is the defacto standard for most modern projects
+* Persistent branches (git flow) are used where you need to maintain multiple long-lived backwards compatible branches (a library with many different versions) and requires alot more work cherrypicking changes between them
