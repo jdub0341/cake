@@ -35,9 +35,8 @@ whats it take to bake a pretty cake?
 ```
 Preheat oven to 350°F.
 butter cake pan
-mix flour, baking powder, salt.
-mix in milk, vanilla
-mix in butter and sugar
+mix flour, baking powder, salt, milk.
+mix in vanilla, butter, and sugar
 mix in eggs
 pour cake batter into prepared pan
 bake at 350 for 30 minutes
