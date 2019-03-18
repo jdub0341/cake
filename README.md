@@ -1,5 +1,5 @@
 # Cake
-whats it take to bake a pretty cake?
+What's it take to bake a pretty cake?
 
 # Exercise 1
 ## First you will each be assigned an ingredient:
